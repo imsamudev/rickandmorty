@@ -7,5 +7,5 @@
 ![Captura de pantalla 2024-04-23 100007](https://github.com/imsamudev01/rickandmorty/assets/160678978/c774c10d-3b26-4995-a289-ba62ba5661a7)
 
 
-follow the link!: https://imsamudev01.github.io/rickandmorty/
+follow the link!: https://imsamudev.github.io/rickandmorty/
 </div>
